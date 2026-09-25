@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-loudoun",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Loudoun County GIS — Loudoun County, Virginia open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-4ac0162a2649f4dcdf39d2af3d2c12c89fc7447e2d6abc65a481f69e62e3b818",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-e904e1db3220368f987acb81b68a92aad4e6af8af9ec59d86972bc1c50781002",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
